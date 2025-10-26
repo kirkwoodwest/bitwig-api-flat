@@ -8,6 +8,8 @@ I did my best to bring the updates to the front here and format it into somethin
 ## API 25
 https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI25.txt
 
+** Has Beta Features related to TrackBanks: `TrackBankFlatteningMode flatteningMode`
+
 ## API 24
 https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI24.txt
 
