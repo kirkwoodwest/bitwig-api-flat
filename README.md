@@ -5,9 +5,14 @@ I did my best to bring the updates to the front here and format it into somethin
 
 # API Version Updates
 
+## API 25
+https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI25.txt
+
+## API 24
+https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI24.txt
+
 ## API 23
 https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI23.txt
-
 
 ### New  Methods
 ```java
@@ -16,8 +21,7 @@ com.bitwig.extension.controller.api.RangedValue.discreteValueNames()
 Gets the name for @param index with the index between 0 and discreteValueCount() - 1.
 
 ## API 22
-https://githubjava 
-com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI22.txt
+https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI22.txt
 
 ### New Methods
 
