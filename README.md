@@ -112,4 +112,3 @@ https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI20.txt
 
 # API 18
 https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI18.txt
-https://github.com/kirkwoodwest/bitwig-api-flat/blob/main/BitwigAPI18.txt
