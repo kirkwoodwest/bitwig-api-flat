@@ -1,7 +1,7 @@
 # bitwig-api-flat
 Bitwig API Flat in one file to use with LLMs. This code is property of Bitwig. It comes from https://maven.bitwig.com/.
 
-I did my best to bring the updates to the front here, but can't
+I did my best to bring the updates to the front here and format it into something useful. This info comes directly from the Bitwig Studio API Documentation.
 
 # API Version Updates
 
